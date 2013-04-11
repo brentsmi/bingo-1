@@ -21,7 +21,7 @@ function Bingo(phrases, buttonTheme){
     this.buttonTheme = buttonTheme;
     this.phrases = ['single\n pane\n of\n glass', 
     				'typical\n use\n case', 
-    				'on\n the\ roadmap', 
+    				'on\n the\n roadmap', 
     				'secure\n container', 
     				'polyglot', 
     				'devops', 
@@ -29,7 +29,7 @@ function Bingo(phrases, buttonTheme){
     				'hybrid', 
     				'HP', 
     				'Ned', 
-    				'weeks\n to\ minutes', 
+    				'weeks\n to\n minutes', 
     				'architecture', 
     				'cake\n diagram', 
     				'enterprise', 
