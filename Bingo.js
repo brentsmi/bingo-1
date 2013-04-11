@@ -19,17 +19,17 @@
 */
 function Bingo(phrases, buttonTheme){
     this.buttonTheme = buttonTheme;
-    this.phrases = ['single\n pane\n of\n glass', 
-    				'typical\n use\n case', 
-    				'on\n the\n roadmap', 
-    				'secure\n container', 
+    this.phrases = ['extensible', 
+    				'auto-configure', 
+    				'roadmap', 
+    				'buildpack', 
     				'polyglot', 
     				'devops', 
     				'agile', 
     				'hybrid', 
     				'HP', 
-    				'Ned', 
-    				'weeks\n to\n minutes', 
+    				'SPDY', 
+    				'LDAP', 
     				'architecture', 
     				'cake\n diagram', 
     				'enterprise', 
@@ -38,10 +38,10 @@ function Bingo(phrases, buttonTheme){
     				'cloud\n foundry', 
     				'security', 
     				'hurdle', 
-    				'data\n latency', 
-    				'private\n cloud', 
+    				'HA', 
+    				'HTTPS', 
     				'app\n store', 
-    				'one-click\n deploy', 
+    				'websocket', 
     				'auto-scale', 
     				'failover'];
     this.init();
