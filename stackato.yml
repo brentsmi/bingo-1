@@ -1,4 +1,4 @@
-name: bingo
 framework:
-  type: node
-mem: 256M
+    type: generic
+processes:
+    web: python -m SimpleHTTPServer $PORT
