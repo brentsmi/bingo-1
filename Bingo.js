@@ -1,4 +1,3 @@
-
 /* Copyright 2012 the original author: corinne krych.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,31 +19,31 @@
 */
 function Bingo(phrases, buttonTheme){
     this.buttonTheme = buttonTheme;
-    this.phrases = ['quick win', 
-    				'tactical\n solution', 
-    				'resources', 
-    				'budget', 
-    				'patch', 
-    				'QA', 
-    				'delivery', 
-    				'scrum', 
+    this.phrases = ['single\n pane\n of\n glass', 
+    				'typical\n use\n case', 
+    				'on\n the\ roadmap, 
+    				'secure\n container', 
+    				'polyglot', 
+    				'devops', 
     				'agile', 
-    				'release', 
-    				'short term', 
-    				'merge\n conflict', 
-    				'rebase', 
-    				'stream', 
-    				'POM', 
-    				'clear case', 
-    				'platform', 
-    				'quality', 
-    				'sprint', 
-    				'product\n owner', 
-    				'scrum\n master', 
-    				'specs', 
-    				'strategic', 
-    				'build', 
-    				'blocking'];
+    				'hybrid', 
+    				'HP', 
+    				'Ned', 
+    				'weeks\n to\ minutes', 
+    				'architecture', 
+    				'cake\n diagram', 
+    				'enterprise', 
+    				'openstack', 
+    				'buildpack', 
+    				'cloud\n foundry', 
+    				'security', 
+    				'hurdle', 
+    				'data\n latency', 
+    				'private\n cloud', 
+    				'app\n store', 
+    				'one-click\n deploy', 
+    				'auto-scale', 
+    				'failover'];
     this.init();
 };
 
