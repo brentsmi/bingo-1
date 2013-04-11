@@ -1,4 +1,4 @@
-Bullshit Bingo
+Stackato Bingo
 ==============
 
 So you're in a Stackato demo and you're bored. It's a real problem not to fall asleep. Thanks to this little HTML5 (JQuery Mobile powered) web app, we have a solution for you.
