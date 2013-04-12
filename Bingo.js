@@ -34,7 +34,7 @@ function Bingo(phrases, buttonTheme){
     				'cake\n diagram', 
     				'enterprise', 
     				'openstack', 
-    				'buildpack', 
+    				'SSHFS', 
     				'cloud\n foundry', 
     				'security', 
     				'hurdle', 
